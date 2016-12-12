@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+
+/* reset css */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+article,
+aside,
+body,
+div,
+nav,
+p,
+section {
+    padding: 0px;
+    margin: 0px;
+}
