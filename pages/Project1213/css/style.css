@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
+.post {
+    background-color: gainsboro;
+    padding: 60px;
+    margin: 0px;
+}
+
+.btn {
+    width: 120px;
+    height: 40px;
+    border: 1px solid cornflowerblue;
+    border-radius: 5px;
+    background-color: cornflowerblue;
+    font-family: 'Oxygen', sans-serif;
+    text-align: center;
+    line-height: 40px;
+    color: white;
+    margin-top: 25px;
+}
+
+h1 {
+    font-family: 'Oxygen', sans-serif;
+    font-size: 66px;
+}
+
+h3 {
+    font-family: 'Oxygen', sans-serif;
+    font-size: 36px;
+    line-height: 2;
+}
+
+p {
+    font-family: 'Oxygen', sans-serif;
+    font-size: 16px;
+}
+
+footer {
+    font-family: 'Oxygen', sans-serif;
+    font-size: 12px;
+}

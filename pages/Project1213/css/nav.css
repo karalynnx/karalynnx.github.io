@@ -1,0 +1,31 @@
+.nav {
+    background-color: black;
+    width: 1366px;
+    height: 60px;
+    padding: 0px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+.nav a:link {
+    font-family: 'Oxygen', sans-serif;
+    font-size: 26px;
+    text-align: center;
+    line-height: 60px;
+    padding: 15px;
+    text-decoration: none;
+    color: grey;
+}
+
+.nav a:visited {
+    color: grey;
+}
+
+.nav a:hover {
+    color: white;
+}
+
+.nav a:active {
+    color: grey;
+}

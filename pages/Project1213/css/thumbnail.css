@@ -1,0 +1,39 @@
+.thumbnail {
+    width: 100%;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail h3 {
+    text-align: center;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 26px;
+}
+
+.thumbnail p {
+    font-family: 'Oxygen', sans-serif;
+    text-align: center;
+}
+
+.btn-buy,
+.btn-more {
+    display: inline-block;
+    width: 80px;
+    height: 30px;
+    border: 1px solid cornflowerblue;
+    border-radius: 5px;
+    font-family: 'Oxygen', sans-serif;
+    text-align: center;
+    line-height: 30px;
+    margin: 15px auto;
+}
+
+.btn-buy {
+    color: white;
+    background-color: cornflowerblue;
+}
