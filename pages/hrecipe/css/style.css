@@ -1,0 +1,19 @@
+body {
+    height: 100vh;
+    background-image: url(../images/02_048.jpg);
+    background-repeat: no-repeat;
+}
+
+.container {
+    margin: 0px auto;
+}
+
+h1 {
+    font-size: 46px;
+    color: brown;
+}
+
+p {
+    font-size: 22px;
+    line-height: 48px;
+}
