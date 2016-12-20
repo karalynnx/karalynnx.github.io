@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Aref+Ruqaa');
 .thumbnails {
     width: 380px;
-    margin: 15px;
+    margin: 0px auto;
     display: inline-block;
     float: left;
 }

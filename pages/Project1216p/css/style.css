@@ -86,9 +86,8 @@ h6 {
 }
 
 .container {
-    width: 60%;
+    width: 50%;
     margin: 50px auto;
-    border: 1px solid black;
     position: relative;
     top: -250px;
 }
