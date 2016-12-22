@@ -11,19 +11,17 @@ nav {
     line-height: 60px;
     text-align: center;
     text-decoration: none;
+    color: crimson;
 }
 
 .kcb:visited {
     color: brown;
-    background-color: #d7c9aa;
 }
 
 .kcb:hover {
     color: #d7c9aa;
-    background-color: #5b5546;
 }
 
 .kcb:active {
     color: #ec9f43;
-    background-color: #d7c9aa;
 }

@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Aref+Ruqaa');
+@import url('https://fonts.googleapis.com/css?family=Proza+Libre');
 .thumbnails {
     width: 380px;
     margin: 0px auto;
@@ -58,84 +58,85 @@
 }
 
 .thumbnail-kitchen-list:link {
-    font-family: 'Aref Ruqaa', serif;
+    height: 60px;
+    font-family: 'Proza Libre', sans-serif;
     font-size: 32px;
     color: bisque;
     text-decoration: none;
 }
 
 .thumbnail-kitchen-list:visited {
-    font-family: 'Aref Ruqaa', serif;
+    font-family: 'Proza Libre', sans-serif;
     font-size: 32px;
     color: bisque;
     text-decoration: none;
 }
 
 .thumbnail-kitchen-list:hover {
-    font-family: 'Aref Ruqaa', serif;
+    font-family: 'Proza Libre', sans-serif;
     font-size: 40px;
     color: bisque;
     text-decoration: none;
 }
 
 .thumbnail-kitchen-list:active {
-    font-family: 'Aref Ruqaa', serif;
+    font-family: 'Proza Libre', sans-serif;
     font-size: 32px;
     color: bisque;
     text-decoration: none;
 }
 
 .thumbnail-cats-list:link {
-    font-family: 'Aref Ruqaa', serif;
+    font-family: 'Proza Libre', sans-serif;
     font-size: 32px;
     color: bisque;
     text-decoration: none;
 }
 
 .thumbnail-cats-list:visited {
-    font-family: 'Aref Ruqaa', serif;
+    font-family: 'Proza Libre', sans-serif;
     font-size: 32px;
     color: bisque;
     text-decoration: none;
 }
 
 .thumbnail-cats-list:hover {
-    font-family: 'Aref Ruqaa', serif;
+    font-family: 'Proza Libre', sans-serif;
     font-size: 40px;
     color: bisque;
     text-decoration: none;
 }
 
 .thumbnail-cats-list:active {
-    font-family: 'Aref Ruqaa', serif;
+    font-family: 'Proza Libre', sans-serif;
     font-size: 32px;
     color: bisque;
     text-decoration: none;
 }
 
 .thumbnail-bubbles-list:link {
-    font-family: 'Aref Ruqaa', serif;
+    font-family: 'Proza Libre', sans-serif;
     font-size: 32px;
     color: bisque;
     text-decoration: none;
 }
 
 .thumbnail-bubbles-list:visited {
-    font-family: 'Aref Ruqaa', serif;
+    font-family: 'Proza Libre', sans-serif;
     font-size: 32px;
     color: bisque;
     text-decoration: none;
 }
 
 .thumbnail-bubbles-list:hover {
-    font-family: 'Aref Ruqaa', serif;
+    font-family: 'Proza Libre', sans-serif;
     font-size: 40px;
     color: bisque;
     text-decoration: none;
 }
 
 .thumbnail-bubbles-list:active {
-    font-family: 'Aref Ruqaa', serif;
+    font-family: 'Proza Libre', sans-serif;
     font-size: 32px;
     color: bisque;
     text-decoration: none;
