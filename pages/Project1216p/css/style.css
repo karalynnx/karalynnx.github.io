@@ -1,69 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Taviraj');
 .jumbotron {
-    height: 60vh;
+    height: 80vh;
     background-image: url(https://source.unsplash.com/1200x600?space);
     background-repeat: no-repeat;
     background-size: cover;
-}
-
-.left-btn {
-    font-size: 36px;
-    text-align: left;
-    color: white;
-    border: 1px hidden;
-    text-decoration: none;
-    padding-right: 550px;
-    position: fixed;
-    top: 0px;
-    left: 15px;
-}
-
-.right-btn-home {
-    font-size: 22px;
-    text-align: right;
-    color: white;
-    border: 1px hidden;
-    text-decoration: none;
-    padding: 15px;
-    position: fixed;
-    top: 0px;
-    right: 500px;
-}
-
-.right-btn-about {
-    font-size: 22px;
-    text-align: right;
-    color: white;
-    border: 1px hidden;
-    text-decoration: none;
-    padding: 15px;
-    position: fixed;
-    top: 0px;
-    right: 350px;
-}
-
-.right-btn-sample-post {
-    font-size: 22px;
-    text-align: right;
-    color: white;
-    border: 1px hidden;
-    text-decoration: none;
-    padding: 15px;
-    position: fixed;
-    top: 0px;
-    right: 150px;
-}
-
-.right-btn-contact {
-    font-size: 22px;
-    text-align: right;
-    color: white;
-    border: 1px hidden;
-    text-decoration: none;
-    padding: 15px;
-    position: fixed;
-    top: 0px;
-    right: 15px;
 }
 
 h1 {
